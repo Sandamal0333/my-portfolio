@@ -34,3 +34,26 @@ Welcome to my personal portfolio website! I'm Dimuthu Sandamal Peiris, a passion
 ├── index.html # Main portfolio file
 ├── /assets #sandamal.jpg
 └── README.md # This file
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: dimthuperis@gmail.com  
+- 📱 Phone: +94 76 756 5146  
+- 🌍 Location: Waliweriya, Gampaha, Sri Lanka  
+- 🔗 LinkedIn: [linkedin.com/in/sandamal-peiris](https://www.linkedin.com/in/sandamal-peiris)
+
+---
+
+## 📜 License
+
+This project is for personal use and portfolio display only.
+
+---
+
+## 🙏 Thanks
+
+Thanks for visiting! Hope you enjoy exploring my work. Feel free to connect with me or provide feedback.
+
+
