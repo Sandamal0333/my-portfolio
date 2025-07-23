@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! I'm Dimuthu Sandamal Peiris, a passion
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio](https://https://github.com/Sandamal0333/my-portfolio/settings/pages)  
+👉 [View Portfolio](https://https://github.com/Sandamal0333/my-portfolio)  
 
 ---
 
